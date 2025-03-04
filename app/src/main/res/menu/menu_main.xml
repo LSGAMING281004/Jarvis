@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/languages"
+        android:title="Target Languages"
+        tools:ignore="HardcodedText">
+        <menu>
+            <item android:id="@+id/japan"
+                android:title="Japanese">
+            </item>
+            <item android:id="@+id/korean"
+                android:title="Korean">
+            </item>
+            <item android:id="@+id/indo"
+                android:title="Chinese">
+            </item>
+
+            <item android:id="@+id/eng"
+                android:title="English"/>
+
+            <item android:id="@+id/tam"
+                android:title="Tamil"/>
+
+
+        </menu>
+    </item>
+    <item android:id="@+id/inlanguages"
+        android:title="Input Languages"
+        tools:ignore="HardcodedText">
+        <menu>
+            <item android:id="@+id/japan1"
+                android:title="Japanese">
+            </item>
+            <item android:id="@+id/korean1"
+                android:title="Korean">
+            </item>
+            <item android:id="@+id/indo1"
+                android:title="Chinese">
+            </item>
+
+            <item android:id="@+id/eng1"
+                android:title="English"/>
+
+            <item android:id="@+id/tam1"
+                android:title="Tamil"/>
+
+
+        </menu>
+    </item>
+    <item android:id="@+id/WakeJarvis"
+        android:title="Wake Up Jarvis"/>
+
+
+
+    <item android:id="@+id/contact"
+        android:title="Contact us"/>
+
+    <item android:id="@+id/help"
+        android:title="Help"/>
+</menu>

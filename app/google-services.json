@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "600499890236",
+    "project_id": "translateanywhere-7614e",
+    "storage_bucket": "translateanywhere-7614e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600499890236:android:c2419aca8dfb4857adbb39",
+        "android_client_info": {
+          "package_name": "com.example.translateanywhere"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYCuHOrD2UYsoiG8U-Pk1vpCkhgnk6Gbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
